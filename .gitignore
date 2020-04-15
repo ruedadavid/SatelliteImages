@@ -1,7 +1,13 @@
 .ipynb_checkpoints
-/src/aoi.json
-/src/Landsat/
+.ipynb
+/src/Landsat/LC08_L1TP_009057_20190903_20190917_01_T1_B2.TIF
+/src/Landsat/LC08_L1TP_009057_20190903_20190917_01_T1_B3.TIF
+/src/Landsat/LC08_L1TP_009057_20190903_20190917_01_T1_B4.TIF
+/src/Landsat/LC08_L1TP_009057_20190903_20190917_01_T1_B5.TIF
+/src/Landsat/Landsat_Out.tif
 /src/Sentinel/earthpy/Sentinel_Out.jp2
+/src/Sentinel/earthpy/Sentinel_Out.tif
+/src/Landsat/earthpy/Landsat_Out.tif
 /src/Sentinel/gdal/
 /src/Sentinel/T18NVL_20200104T152639_B02.jp2
 /src/Sentinel/T18NVL_20200104T152639_B03.jp2
