@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "aoi_U18NW84",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32618" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_ESPACIA": "73124", "AREA_OFICI": 520.0, "ENTIDAD_TE": "Cabecera Municipal", "NOM_DEPART": "TOLIMA", "NOM_MUNICI": "CAJAMARCA", "COD_DEPTO": "73" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 457841.088605541968718, 490442.463145186891779 ], [ 437870.547064445563592, 490455.136989167367574 ], [ 437886.219252114184201, 510761.742184336471837 ], [ 457851.722845473326743, 510748.548064489325043 ], [ 457841.088605541968718, 490442.463145186891779 ] ] ] } }
+]
+}
