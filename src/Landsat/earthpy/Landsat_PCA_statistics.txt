@@ -1,0 +1,20 @@
+Correlation Matrix:
+	Band1		Band2		Band3		Band4	
+Band1	1.000 		0.990 		0.990 		0.561 	
+Band2	0.990 		1.000 		0.997 		0.642 	
+Band3	0.990 		0.997 		1.000 		0.610 	
+Band4	0.561 		0.642 		0.610 		1.000 	
+
+Cov.Eigenvectors:
+	PC1		PC2		PC3		PC4	
+Band1	0.525 		0.299 		-0.765 		0.223 	
+Band2	0.535 		0.165 		0.196 		-0.805 	
+Band3	0.531 		0.218 		0.609 		0.547 	
+Band4	0.395 		-0.914 		-0.070 		0.058 	
+
+Bands:
+           		PC1		PC2		PC3		PC4	
+Cov.Eigenvalues:	3.435 		0.555 		0.009 		0.001 	
+Sum of Eigenvalues:	3.435 		3.990 		3.999 		4.000 	
+Eigenvalues/Sum:   	0.859 		0.997 		1.000 		1.000 	
+Percentages(%):    	85.9 		99.7 		100.0 		100.0 	
